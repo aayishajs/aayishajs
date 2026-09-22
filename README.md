@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Aayisha J S 👋
 
-<!--
-**aayishajs/aayishajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Electronics & Communication Engineering Student
 
-Here are some ideas to get you started:
+🎓 Government Engineering College, Barton Hill
+💻 Currently learning Python and programming fundamentals
+⚡ Exploring Electronics & Communication Engineering
+🔐 Interested in Cybersecurity
+🤝 IEEE & ISTE Member
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+
+- Python
+- Programming fundamentals
+- Electronics & Communication Engineering
+
+🚀 Interests
+
+- Cybersecurity
+- Electronics
+- Programming
+- Technology & Innovation
+- Hackathons
+
+📌 My Goal
+
+To continuously learn, build meaningful projects, and grow as an engineer.
+
+---
+
+⭐ Thanks for visiting my profile!
